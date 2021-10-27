@@ -8,8 +8,8 @@ const AdminSidebar = () => {
   {/* Brand Logo */}
   <Link href='#'>
   <a className="brand-link">
-    <Image src="/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} width={20} height={20} />
-    <span className="brand-text font-weight-light">Bew]</span>
+    <Image src="/dist/img/pngtree-cute-little-animal-frog-little-frog-cartoon-frog-png-image_376117.jpg" alt="AdminLTE Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8'}} width={20} height={20} />
+    <span className="brand-text font-weight-light">Pawares Sribrutim</span>
   </a>
   </Link>
   {/* Sidebar */}
@@ -17,7 +17,7 @@ const AdminSidebar = () => {
     {/* Sidebar user panel (optional) */}
     <div className="user-panel mt-3 pb-3 mb-3 d-flex">
       <div className="image">
-        <Image src="/dist/img/user2-160x160.jpg" className="img-circle elevation-2" alt="User Image" width={50} height={50} />
+        <Image src="/dist/img/13551f4a12e7c4c84cf959b81513f76a.jpg" className="img-circle elevation-2" alt="User Image" width={50} height={50} />
       </div>
       <div className="info">
       <Link href='#'>
